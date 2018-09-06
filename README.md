@@ -1,2 +1,2 @@
-# strojovegor.HitHub.io
+# strojovegor.GitHub.io
 репозиторий для заданий  
